@@ -3,7 +3,7 @@ platforms and browsers. I care deeply about building interfaces that are usable 
 My professional life has been 100% driven by my passion.I started building promo websites for small businesses while in college. For three years, I have been working for a product based company where we develop a lot of functionality in my product which is helpful for our clients. Right now, I’m excited about the still very complicated WebAssembly, and working towards becoming a Vue senior. In the following years, I also plan to explore the“server-side” more and become a better-rounded full-stack dev.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh9836&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tech Stack:
 
@@ -16,8 +16,6 @@ My professional life has been 100% driven by my passion.I started building promo
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
         <br>JavaScript
       </td>
-     
-    
     </tr>
   </tbody>
 </table>
