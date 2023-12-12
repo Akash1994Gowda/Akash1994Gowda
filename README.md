@@ -16,10 +16,7 @@ My professional life has been 100% driven by my passion.I started building promo
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
         <br>JavaScript
       </td>
-      <td align="center" width="25%">   
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
-        <br>Java
-      </td>
+     
       <td align="center" width="25%">   
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
         <br>TypeScript
